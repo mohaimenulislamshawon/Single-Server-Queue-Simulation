@@ -14,7 +14,7 @@ This repository contains a single server queue simulation implemented in PHP, co
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/queue-simulation-php.git
+   git clone https://github.com/mohaimenulislamshawon/queue-simulation-php.git
    ```
 2. **Navigate to the Directory**:
    ```bash
