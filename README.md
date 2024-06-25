@@ -14,11 +14,11 @@ This repository contains a single server queue simulation implemented in PHP, co
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/mohaimenulislamshawon/queue-simulation-php.git
+   git clone https://github.com/mohaimenulislamshawon/Single-Server-Queue-Simulation.git
    ```
 2. **Navigate to the Directory**:
    ```bash
-   cd queue-simulation-php
+   cd Single-Server-Queue-Simulation
    ```
 3. **Set Up Your PHP Environment**: Ensure you have a local PHP server set up. You can use tools like XAMPP, WAMP, or MAMP, or use PHP's built-in server:
    ```bash
